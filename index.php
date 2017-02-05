@@ -1,4 +1,4 @@
 <?php
-  header('Location: https://www.google.com/', true, 301);
+  header('Location: https://www.google.com/#safe=active&q=SuperbVC', true, 301);
   exit();
 ?>
